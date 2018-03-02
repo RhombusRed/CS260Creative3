@@ -22,17 +22,12 @@
  .clear {
      float: clear;
  }
- * {
-        margin: 0;
-        padding: 0;  }
-html {
-    background-color: black; 
-}
  nav {
         width: 100%;
-        height:47px;
+        height: 47px;
         background-color: black;
-        /* position: absolute;   */
+        position: absolute;
+        
 }
     nav ul {
         list-style-type: none;
